@@ -1,0 +1,40 @@
+body {background-color: black;}
+
+#box {margin:auto;
+    width: 600px;
+    background-color: white;
+}
+
+img {width: 100%;}
+
+#header {display: flex;
+padding: 15px;
+}
+
+#logo {font-size: 30px;
+    padding-right: 10px;
+    padding-top: 11px;
+}
+
+#titulos {display: table-column;
+font-size: 12px;
+width: 95%;
+line-height: 5px;}
+
+#trespuntos { font-size: 30px;
+padding-right: 17px;
+padding-top: 12px;}
+
+
+#piedefoto {
+    display: flex;
+    padding: 15px;
+    font-size: 35px;
+
+}
+
+#izquierda {width: 92%; }
+
+#derecha{padding-right: 17px;}
+p {padding: 15px;
+text-align: justify;}
